@@ -86,7 +86,7 @@ Desenvolvido por João Pedro Oliveira - 2025
 3. **Estrutura do Projeto**: Explica brevemente a estrutura das classes e interfaces no código.
 4. **Como Usar**: Passo a passo para compilar e rodar o código.
 5. **Tecnologias Utilizadas**: Menciona as tecnologias e versões que o projeto utiliza.
-6. **Licença**: Explica a licença do projeto (no caso, você pode escolher a licença MIT para código aberto).
+6. **Licença**: Explica a licença do projeto.
 7. **Contribuições**: Abre espaço para outras pessoas contribuírem.
 
 Esse `README.md` vai deixar o projeto mais organizado e acessível para quem for ler ou usar no futuro
